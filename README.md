@@ -1,2 +1,3 @@
-# bccompsciclub.github.io
-Home of the Computer Science Club @ Bakersfield College
+# BC Computer Science Club
+
+Welcome to our GitHub Page
